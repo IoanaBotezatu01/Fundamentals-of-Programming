@@ -1,0 +1,3 @@
+9;Name El Cid's horse;Babieca;Abu;Santiago;Babieca;hard
+8;A mole can be;animal;quantity;both;both;hard
+7;Which Apollo mission did not make it to the moon;11;13;17;13;hard
